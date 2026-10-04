@@ -1,0 +1,2 @@
+- Make sure you have "ASP.Net and Web Development" and ".NET Desktop Development" installed in your visual studio.
+- This is just a sample API for our ongoing school project.
